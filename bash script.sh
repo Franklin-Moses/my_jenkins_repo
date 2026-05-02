@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Hello from Jenkins!"
-echo "my second build"
+echo "my second build!"
